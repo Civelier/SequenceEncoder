@@ -1,4 +1,4 @@
-# Sequence encoder for Metaltech
+# Sequence encoder
 A small script to encode step actions into 3 words.
 
 ## Requirements
