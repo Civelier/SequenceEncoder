@@ -5,7 +5,7 @@ A small script to encode step actions into 3 words.
 - Python 3.11.4 or above
 - Visual Studio Code with python extensions
 
-## Usage
+## Setup
 Install python 3.11.4 or above and make sure to add python to PATH.
 
 Test python by openning a cmd prompt and write:
@@ -107,3 +107,10 @@ Word3 = -23805 # 1010 0011 0000 0011
 # Start   | Fill 2 | End bits
 0101 1100    000     1010 0011
 ```
+
+## Usage
+### Simplified mode
+Simplified mode is the old method to create a single sequence.
+
+### Advanced mode (recommended)
+Advanced mode allows you to save multiple sequences into a file and load them later.
