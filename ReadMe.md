@@ -32,3 +32,15 @@ To run the program (remember to activate the venv in every new terminal you open
 python -m main.py
 ```
 Or press F5 in Visual Studio Code with the file main.py open.
+
+
+## Encoding style
+This program will generate three 16-bit integers that can then be copied in the PLC data table.
+
+
+
+![Word 1](https://github.com/Civelier/SequenceEncoder/blob/main/images/Word%201.PNG?raw=true)
+
+![Word 2](https://github.com/Civelier/SequenceEncoder/blob/main/images/Word%202.PNG?raw=true)
+
+![Word 3](https://github.com/Civelier/SequenceEncoder/blob/main/images/Word%203.PNG?raw=true)
